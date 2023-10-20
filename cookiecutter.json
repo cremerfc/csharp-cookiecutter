@@ -2,6 +2,6 @@
   "assembly_name": "Foo.Bar",
   "root_namespace": "{{ cookiecutter.assembly_name }}",
   "author": "Cody McCodeface",
-  "appveyor_nuget_api_key": ""
+  "appveyor_nuget_api_key": "",
   "version": 1.0 
 }
